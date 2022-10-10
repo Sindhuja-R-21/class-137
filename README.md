@@ -1,2 +1,2 @@
-# class-137
-ADD CORS EXTENSTION
+# Planet-Api-App
+Get planets details
